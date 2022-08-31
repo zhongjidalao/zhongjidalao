@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![snake](https://github.com/zhongjidalao/zhongjidalao/blob/output/github-contribution-grid-snake.svg)
+
